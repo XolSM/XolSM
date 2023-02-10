@@ -1,7 +1,6 @@
-#  👋 Hello! Welcome to my space👋
+## 👋 Hello! Welcome to my space👋
 ## 🙋🏻‍♀️ I am a 🥼 Cell Biologist who found her passion in 📊 Data Analitics and 💊 Clinical Research fields
 ### 👩🏻‍🎓 Join me in this journey as I practice learned coding skills and enter the Data Analysis field
-### 🧐 Personal philosophy: Happiness is an inside Job ☀️ (working on it 😬) 
 
 👸🏻 I bit about me:
 I am a Cell Biolgist graduated in 2007, I have always have an interest in Data Analysis and have done it in some level in each of my professional roles. I started with Excel, learning everything by consulting with "San Google" 🔍 if and how I was able to do something, and sucedeed on creating a predictive program in excel to estimate times to collect yeast in a Brewery 🍺 based on historic fermentation rates 📉 (several cicles through the years).
@@ -13,3 +12,5 @@ My recent experience was in Clinical Research, a field that I like and that I wa
 After analysing profundly what I really have liked in each of my professional roles I realized that Data, Excel, Systems are the things that I enjoyed the must, so I decided to persue the Google Data Analytics Professional Certification with Coursera 🤓, program that covers the entire scope of the data analysis process including a hands-on activities [(please see my case study repository 📋)](https://github.com/XolSM/Google-Data-Analytics-Certificate). I realized that I actually knew more than I expected about Data Analysis 🤯 and that I am always applying the required soft skills like analytical/problem-solving skills, critical thinking, attention to detail, fast learning and adaptability, great communication skills to wokr individually or as a team member 🧑‍🤝‍🧑.
 
 So now, I continue to learn and practice skills that will allow me to perform and success as a Data Analyst 🙌🏼 and I am currently looking for new challenges and opportunities that involve Data Analysis 💪🏽 to continue growing in this field that I am passionate about 🤩.
+
+## 🧐 Personal philosophy: Happiness is an inside Job ☀️ (working on it 😬) 
